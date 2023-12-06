@@ -42,4 +42,17 @@ rosrun map_server map_saver -f <path to save your map>
 ```
 ### output ![Screenshot from 2023-12-06 13-38-27](https://github.com/EmanElsayed149/ROSProject/assets/91433516/ba1b49e6-4a29-421d-add1-36da7a04f75a)
 
+### 4. Navigation 
+- first you should load built map
+```
+roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file=:<selected path>
+```
+- run your node to go to our goal
+```
+rosrun my_robot_controller navigation_goal.py
+```
+### output 
+
+
+https://github.com/EmanElsayed149/ROSProject/assets/91433516/750002ec-26aa-488d-958f-94b8dfca559d
 
