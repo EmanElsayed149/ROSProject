@@ -40,3 +40,6 @@ https://github.com/EmanElsayed149/ROSProject/assets/91433516/d49bf3b8-5a7a-4b34-
 ```
 rosrun map_server map_saver -f <path to save your map>
 ```
+### output ![Screenshot from 2023-12-06 13-38-27](https://github.com/EmanElsayed149/ROSProject/assets/91433516/ba1b49e6-4a29-421d-add1-36da7a04f75a)
+
+
