@@ -2,7 +2,7 @@
 ***These are the main steps to build mapping and navigation robot.***
 
 ## Simulatounsly
-### 1. Sensors for distence measurements (rplidar - odomerty - camera ) provided by gazebo which create environment also
+### 1. Sensors for distence measurements (rplidar - odomerty - camera - IMU ) provided by gazebo which create environment also
 ```
 roslaunch turtlebot3_gazebo turtlebot3_house.launch
 ``` 
