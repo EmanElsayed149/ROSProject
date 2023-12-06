@@ -32,6 +32,10 @@ roslaunch turtlebot3_slam turtlebot3_slam.launch slam_methods:=gmapping
 
 ### video of drawing map 
 
+https://github.com/EmanElsayed149/ROSProject/assets/91433516/d49bf3b8-5a7a-4b34-aa15-4b1ba302ed8d
+
+
+
 ### 3. save map 
 ```
 rosrun map_server map_saver -f <path to save your map>
